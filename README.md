@@ -57,22 +57,29 @@ susato 新版本移植内容目前还在适配中。
 适配了：
 | 套装 | 上装 | 下装 | 类别 |
 |------|:--:|:--:|------|
-| 1 | 舞会礼服 | `ballgown` | ✅ | ✅ |
-| 2 | 哥特 | `gothic` | ✅ | ✅ |
-| 3 | 女仆装 | `maid` | ✅ | ✅ |
-| 4 | 背带裤 | `overalls` | ✅ | ✅ |
-| 5 | 露肩洛丽塔 | `openshoulderlolita` | ✅ | ✅ |
-| 6 | 大码毛衣 | `sweaterlarge` | ✅ | ✅ |
-| 7 | 旗袍 | `cheongsam` | ✅ | ✅ |
-| 8 | 短旗袍 | `cheongsamshort` | ✅ | ✅ |
-| 9 | 皮裙 | `leatherdress` | ✅ | ✅ |
-| 10 | 汉服 | `hanfu` | ✅ | ✅ |
-| 11 | T恤 | `tshirt` | ✅ | - |
-| 12 | 校服衬衫 | `schoolshirt` | ✅ | - |
-| 13 | 毛衣 | `sweater` | ✅ | - |
-| 14 | 哥特夹克 | `gothicjacket` | ✅ | - |
-| 15 | 猫猫卫衣 | `cat hoodie` | ✅ | - |
-| 16 | 运动衫 | `gymshirt` | ✅ | - |
+| `ao dai` 奥黛 | ✅ | ✅ | 外衣 |
+| `apron` 围裙 | ✅ | ✅ | 外衣 |
+| `ballgown` 舞会礼服 | ✅ | ✅ | 外衣 |
+| `cheongsam` 旗袍 | ✅ | ✅ | 外衣 |
+| `cheongsamshort` 短旗袍 | ✅ | ✅ | 外衣 |
+| `eveninggown` 晚礼服 | ✅ | ✅ | 外衣 |
+| `gothic` 哥特 | ✅ | ✅ | 外衣 |
+| `hanfu` 汉服 | ✅ | ✅ | 外衣 |
+| `leatherdress` 皮裙 | ✅ | ✅ | 外衣 |
+| `maid` 女仆装 | ✅ | ✅ | 外衣 |
+| `openshoulderlolita` 露肩洛丽塔 | ✅ | ✅ | 外衣 |
+| `overalls` 背带裤 | ✅ | ✅ | 外衣 |
+| `sundress` 太阳裙 | ✅ | ✅ | 外衣 |
+| `sweaterlarge` 大码毛衣 | ✅ | ✅ | 外衣 |
+| `argyle` 菱格纹 | ✅ | - | 外衣 |
+| `babydoll` 娃娃装 | ✅ | - | 外衣 |
+| `babydolllingerie` 娃娃领内衣 | ✅ | - | 外衣 |
+| `cat hoodie` 猫猫卫衣 | ✅ | - | 外衣 |
+| `gothicjacket` 哥特夹克 | ✅ | - | 外衣 |
+| `gymshirt` 运动衫 | ✅ | - | 外衣 |
+| `schoolshirt` 校服衬衫 | ✅ | - | 外衣 |
+| `sweater` 毛衣 | ✅ | - | 外衣 |
+| `tshirt` T恤 | ✅ | - | 外衣 |
 | `under-lower` | - | 48 套 | 内衣 |
 | `under-upper` | 36 套 | - | 内衣 |
 

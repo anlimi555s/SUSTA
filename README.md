@@ -36,7 +36,6 @@ susato 新版本移植内容目前还在适配中。
 | 14 | 哥特夹克 | `gothicjacket` | ✅ | - |
 | 15 | 猫猫卫衣 | `cat hoodie` | ✅ | - |
 | 16 | 运动衫 | `gymshirt` | ✅ | - |
-
 | `under-lower` | - | 48 套 | 内衣 |
 | `under-upper` | 36 套 | - | 内衣 |
 

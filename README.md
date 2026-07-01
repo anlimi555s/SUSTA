@@ -5,6 +5,7 @@
 旧版本内容可从 [GitHub](https://github.com/sakuramifushika/closeup/) 获取，适用于 **v0.5.8 及之前版本**。
 
 > 转换贴图错误请自行修复。
+> 模组安装请自行寻找教程
 
 ## 美化文件夹说明
 

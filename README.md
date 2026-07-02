@@ -53,35 +53,43 @@
 
 susato 新版本移植内容目前还在适配中。
 
-2026/7/1
 适配了：
-| 套装 | 上装 | 下装 | 类别 |
-|------|:--:|:--:|------|
-| `ao dai` 奥黛 | ✅ | ✅ | 外衣 |
-| `apron` 围裙 | ✅ | ✅ | 外衣 |
-| `ballgown` 舞会礼服 | ✅ | ✅ | 外衣 |
-| `cheongsam` 旗袍 | ✅ | ✅ | 外衣 |
-| `cheongsamshort` 短旗袍 | ✅ | ✅ | 外衣 |
-| `eveninggown` 晚礼服 | ✅ | ✅ | 外衣 |
-| `gothic` 哥特 | ✅ | ✅ | 外衣 |
-| `hanfu` 汉服 | ✅ | ✅ | 外衣 |
-| `leatherdress` 皮裙 | ✅ | ✅ | 外衣 |
-| `maid` 女仆装 | ✅ | ✅ | 外衣 |
-| `openshoulderlolita` 露肩洛丽塔 | ✅ | ✅ | 外衣 |
-| `overalls` 背带裤 | ✅ | ✅ | 外衣 |
-| `sundress` 太阳裙 | ✅ | ✅ | 外衣 |
-| `sweaterlarge` 大码毛衣 | ✅ | ✅ | 外衣 |
-| `argyle` 菱格纹 | ✅ | - | 外衣 |
-| `babydoll` 娃娃装 | ✅ | - | 外衣 |
-| `babydolllingerie` 娃娃领内衣 | ✅ | - | 外衣 |
-| `cat hoodie` 猫猫卫衣 | ✅ | - | 外衣 |
-| `gothicjacket` 哥特夹克 | ✅ | - | 外衣 |
-| `gymshirt` 运动衫 | ✅ | - | 外衣 |
-| `schoolshirt` 校服衬衫 | ✅ | - | 外衣 |
-| `sweater` 毛衣 | ✅ | - | 外衣 |
-| `tshirt` T恤 | ✅ | - | 外衣 |
-| `under-lower` | - | 48 套 | 内衣 |
-| `under-upper` | 36 套 | - | 内衣 |
+| # | 套装 | 英文名 | 上装 | 下装 |
+|---|------|--------|:--:|:--:|
+| 1 | 奥黛 | `ao dai` | ✅ | ✅ |
+| 2 | 围裙 | `apron` | ✅ | ✅ |
+| 3 | 舞会礼服 | `ballgown` | ✅ | ✅ |
+| 4 | 旗袍 | `cheongsam` | ✅ | ✅ |
+| 5 | 短旗袍 | `cheongsamshort` | ✅ | ✅ |
+| 6 | 晚礼服 | `eveninggown` | ✅ | ✅ |
+| 7 | 哥特 | `gothic` | ✅ | ✅ |
+| 8 | 汉服 | `hanfu` | ✅ | ✅ |
+| 9 | 皮裙 | `leatherdress` | ✅ | ✅ |
+| 10 | 女仆装 | `maid` | ✅ | ✅ |
+| 11 | 露肩洛丽塔 | `openshoulderlolita` | ✅ | ✅ |
+| 12 | 背带裤 | `overalls` | ✅ | ✅ |
+| 13 | 太阳裙 | `sundress` | ✅ | ✅ |
+| 14 | 大码毛衣 | `sweaterlarge` | ✅ | ✅ |
+| 15 | 浴袍 | `bathrobe` | ✅ | ✅ |
+| 16 | 菱格纹 | `argyle` | ✅ | — |
+| 17 | 娃娃装 | `babydoll` | ✅ | — |
+| 18 | 娃娃领内衣 | `babydolllingerie` | ✅ | — |
+| 19 | 乐队T恤 | `band tee` | ✅ | — |
+| 20 | 棒球衫 | `baseball` | ✅ | — |
+| 21 | 嬉皮士 | `beatnik` | ✅ | — |
+| 22 | 床单 | `bedsheet` | ✅ | — |
+| 23 | 露脐装 | `belly` | ✅ | — |
+| 24 | 黑皮衣 | `blackleather` | ✅ | — |
+| 25 | 西装衬衫 | `blazershirt` | ✅ | — |
+| 26 | 猫猫卫衣 | `cat hoodie` | ✅ | — |
+| 27 | 啦啦队服 | `cheerleader` | ✅ | — |
+| 28 | 连衣裙 | `dress` | ✅ | — |
+| 29 | 哥特夹克 | `gothicjacket` | ✅ | — |
+| 30 | 运动衫 | `gymshirt` | ✅ | — |
+| 31 | 校队夹克 | `letterman` | ✅ | — |
+| 32 | 校服衬衫 | `schoolshirt` | ✅ | — |
+| 33 | 毛衣 | `sweater` | ✅ | — |
+| 34 | T恤 | `tshirt` | ✅ | — |
 
 
 
